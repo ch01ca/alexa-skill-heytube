@@ -2,7 +2,7 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
-        "en-GB": {
+        "en-US": {
           "summary": "Listen to a single track audio from YouTube",
           "examplePhrases": [
             "Alexa open single tube"
